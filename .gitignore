@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dman-kawaii-cipher
+dman-kawaii-cipher.so
+dman-kawaii-cipher.dylib
+dman-kawaii-cipher.dll
+dman-kawaii-cipher.a
+dman-kawaii-cipher.lib
+dman-kawaii-cipher-test-*
+*.exe
+*.o
+*.obj
+*.lst
